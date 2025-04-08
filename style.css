@@ -101,8 +101,9 @@ button:disabled {
     margin-bottom: 25px;
     background: rgba(20, 30, 20, 0.4);
     border-radius: 12px;
-    box-shadow: 0 0 30px rgba(79, 21, 225, 0.15);
+    box-shadow: 0 0 30px rgba(57, 255, 20, 0.15);
 }
+
 
 .bar {
     background: var(--bar-bg);
