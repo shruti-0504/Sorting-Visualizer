@@ -7,7 +7,7 @@ RUN rm -rf /usr/share/nginx/html/*
 # Copy your project files into the nginx server folder
 COPY . /usr/share/nginx/html
 
-# Expose port 80
+# Expose port 90
 EXPOSE 90
 
 # Start nginx
